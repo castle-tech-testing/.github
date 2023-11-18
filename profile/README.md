@@ -9,11 +9,9 @@ To learn more about us, please see [our developer portal](https://app.gitbook.co
 
 ## Repositories
 
-The repositories listed here serve as valuable resources for Sample Code and tools to help you kickstart your Castle App development journey.
+The listed repositories act as valuable resources for Sample Code and tools for all devices, assisting in kickstarting your Castle App development journey.
 
 <!-- alphabetical -->
-* [devtools](https://github.com/castle-tech-testing/devtools): the DevTools tooling (Signing Tool, Driver, Debugger).
-* [packages](): packages maintained by the Castles team
-* [samples](): examples of Flutter applications for your enjoyment and edification.
+* [S1F2](https://github.com/castle-tech-testing/devtools): Next-gen mobile terminal DevTools (Signing Tool, Driver, Debugger and Sample Code).
 * [website](https://app.gitbook.com/o/6tF7C2qqoJCz0Nn2jAyX/s/xU83Zii4YR74EUjntis5/): the source for our documentation site
 
