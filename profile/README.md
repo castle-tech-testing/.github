@@ -15,5 +15,5 @@ The repositories listed here serve as valuable resources for Sample Code and too
 * [devtools](https://github.com/castle-tech-testing/devtools): the DevTools tooling (Signing Tool, Driver, Debugger).
 * [packages](): packages maintained by the Castles team
 * [samples](): examples of Flutter applications for your enjoyment and edification.
-* [website](https://app.gitbook.com/o/6tF7C2qqoJCz0Nn2jAyX/s/xU83Zii4YR74EUjntis5/): the source for our documentation site, https://docs.flutter.dev/.
+* [website](https://app.gitbook.com/o/6tF7C2qqoJCz0Nn2jAyX/s/xU83Zii4YR74EUjntis5/): the source for our documentation site
 
