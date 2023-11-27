@@ -3,7 +3,7 @@ We are a payment technology company responsible for connecting millions of merch
 Our mission : help retailers with multiple payment methods to create a seamless customer journey.
 We are optimistic about how technology and connectivity can enhance and leverage payments.
 
-## Get started with Casatles!
+## Get started with Castles!
 
 To learn more about us, please see [our developer portal](https://app.gitbook.com/o/6tF7C2qqoJCz0Nn2jAyX/s/xU83Zii4YR74EUjntis5/)
 
